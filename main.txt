@@ -2,8 +2,5 @@
 
 first line 
 
-<<<<<<< HEAD
 added second line
-=======
 new user added second line
->>>>>>> eecb2aa (new user first commit)
