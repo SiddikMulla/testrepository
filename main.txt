@@ -4,3 +4,5 @@ changed first line non conflict i guess
 
 this is new change on master 
 master changed since branching
+
+i made some changes
