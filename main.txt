@@ -10,3 +10,7 @@ more changes
 changes on feature branch
 
 some new changes by sid
+
+some more changes to file
+
+changes made after first staging
